@@ -1,0 +1,5 @@
+zidcu is a "small" wrapper around sqlite
+
+Main public user is currently pbrane; it has many examples of usage.
+TODO: have actual examples
+
